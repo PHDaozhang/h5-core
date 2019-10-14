@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "outFile": "./bin/TRain/TRain.js",
+        "declaration": true
+    },
+    "include": [
+        "libs/*",
+        "src/**/*"
+    ]
+}
